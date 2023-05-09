@@ -45,6 +45,9 @@ v.0.1:
 ### Play the game
 
 Press the Aircraft or Spaceship button to choose your desired aircraft.
+
 Press and hold W to move the plane front. Press A to move left, D to move right
+
 Press and hold up-arrow key to lift the plane upwards. Press right-arrow or left-arrow to rotate the plane in respective directions. Press down-arrow to dive
-Press P to change view from thir-person POV to first-person and vice versa.
+
+Press P to change view from third-person POV to first-person and vice versa.
