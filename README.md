@@ -16,8 +16,11 @@ Current version:
 - Provides the choice of playing with two different aircrafts
   ![image](https://github.com/jabhuiyan/flight-simulator-project/blob/main/change.gif)
 - Has two tutorial levels that teaches the player on how to fly the aircraft and also the goal of the game
-- Has three different levels with an increasing number of coins each level
+  ![image](https://github.com/jabhuiyan/flight-simulator-project/blob/main/tutorial.jpg)
+  Has three different levels with an increasing number of coins each level
+- ![image](https://github.com/jabhuiyan/flight-simulator-project/blob/main/coins.jpg)
 - Has different obstacles in the map to have an increasing difficulty curve
+  ![image](https://github.com/jabhuiyan/flight-simulator-project/blob/main/lvl.jpg)
 - Has audio script for game actions such as collecting the coin and propelling the aircraft
 - Has a reset button that can be pressed anytime to restart current level
 - Obstacle objects, when hit, will trigger a reset from the start of level
