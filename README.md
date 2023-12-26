@@ -14,6 +14,7 @@ by: _Jubaer Ahmed Bhuiyan_
 
 Current version:
 - Provides the choice of playing with two different aircrafts
+  ![image](https://github.com/jabhuiyan/flight-simulator-project/blob/main/change.gif)
 - Has two tutorial levels that teaches the player on how to fly the aircraft and also the goal of the game
 - Has three different levels with an increasing number of coins each level
 - Has different obstacles in the map to have an increasing difficulty curve
