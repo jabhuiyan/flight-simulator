@@ -1,6 +1,8 @@
 # flight-simulator
 
-Simple game of collecting coins using an aircraft in a 3D environment. Implements the pillars
+![image](https://github.com/jabhuiyan/flight-simulator-project/blob/main/flight.gif)
+
+A game of collecting coins using an aircraft in a 3D environment. Implements the pillars
 of usability and heuristics in Game Design/UX design.
 
 -----------------------
